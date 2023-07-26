@@ -1,6 +1,6 @@
 <h1 align="center">Hey👋, I'm Re'em!</h1>
-<h5 align="center">A passionate Computer Science student 2nd year from Israel</h5>
-<img align="middle" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:828/0*fhD5MEN7pMqfC1Am.gif">
+<h2 align="center">A passionate Computer Science student 2nd year from Israel</h2>
+<img align="center" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:828/0*fhD5MEN7pMqfC1Am.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reem-mor" alt="reem-mor" /></a> </p>
