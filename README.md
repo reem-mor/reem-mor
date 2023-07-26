@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*fhD5MEN7pMqfC1Am.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reem-mor&label=Profile%20views&color=0e75b6&style=flat" alt="reem-mor" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reem-mor" alt="reem-mor" /></a> </p>
 
 - 🔭 I’m currently working on **Assembler Project**
@@ -26,5 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reem-mor&show_icons=true&locale=en&layout=compact" alt="reem-mor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reem-mor&show_icons=true&locale=en" alt="reem-mor" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reem-mor&label=Profile%20views&color=0e75b6&style=flat" alt="reem-mor" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reem-mor&" alt="reem-mor" /></p>
