@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://reem-mor.io)
 <h1 align="center">Hey👋, I'm Re'em!</h1>
 <h3 align="center">A passionate Computer Science student 2nd year from Israel</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*fhD5MEN7pMqfC1Am.gif">
