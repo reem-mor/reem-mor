@@ -30,32 +30,15 @@
 
 ### 🛠️ Tech Toolbox
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  
-  <!-- Web / App Frameworks -->
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next.js" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  
-  <!-- DevOps & Infra -->
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  
-  <!-- Monitoring & Observability -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Nagios_logo.svg" height="48" alt="Nagios" />
-  <img src="https://pbs.twimg.com/profile_images/1139325672829812736/N1S5Qy7Q_400x400.png" height="48" alt="XpoLog" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Kibana_logo.svg" height="48" alt="Kibana" />
-  
-  <!-- Databases -->
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
-</p>
+🛠️ Tech Toolbox
+👨‍💻 Programming Languages
+<p align="center"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> </p>
+🖥️ Monitoring, NOC & DevOps Tools
+<p align="center"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white" /> <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" /> <img src="https://img.shields.io/badge/XpoLog-1E1E1E?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </p>
+🌐 Web Development
+<p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> </p>
+🗄️ Databases
+<p align="center"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> </p>
 
 ---
 
