@@ -31,15 +31,30 @@
 ### 🛠️ Tech Toolbox
 
 <p align="center">
+  <!-- Programming Languages -->
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
+  
+  <!-- Web / App Frameworks -->
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next.js" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  
+  <!-- DevOps & Infra -->
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png" alt="Unreal" />
+  
+  <!-- Monitoring & Observability -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Nagios_logo.svg" height="48" alt="Nagios" />
+  <img src="https://pbs.twimg.com/profile_images/1139325672829812736/N1S5Qy7Q_400x400.png" height="48" alt="XpoLog" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Kibana_logo.svg" height="48" alt="Kibana" />
+  
+  <!-- Databases -->
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
 </p>
 
 ---
