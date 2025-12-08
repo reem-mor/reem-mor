@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Re'em Mor</h1>
-<h3 align="center">🚀 NOC Engineer @ 888 Holdings | 🎓 B.Sc. Computer Science | 🔧 Future DevOps Engineer</h3>
+<h3 align="center">🚀 Software Engineer | 🎓 B.Sc. Computer Science | 🔧Junior DevOps Engineer | </h3>
 
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:828/0*fhD5MEN7pMqfC1Am.gif" width="500" alt="Coding GIF" />
