@@ -1,23 +1,21 @@
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+# 🚀 Re'em Mor | Software Engineer & Junior SRE DevOps Engineer
 
-I’m **Re'em**, a software engineer with a Computer Science degree and hands on experience in DevOps and production systems.
+I am a **Software Engineer (B.Sc. CS, GPA 90)** currently at **Evoke (888 Holdings)**. I build at the intersection of high-performance code and resilient infrastructure.
 
-I like building things that actually run in the real world.
+### 🛠️ The Tech I Run
+- **Cloud & Orchestration:** AWS, Kubernetes (CKA Candidate), Docker, Terraform.
+- **Backend & Automation:** Python, Node.js, TypeScript, Bash, Java.
+- **Observability:** Prometheus, Grafana, ELK Stack, New Relic.
+- **CI/CD:** GitHub Actions, Azure DevOps, Ansible.
 
-From writing code, to automating deployments, to keeping systems stable and observable.
+### 📈 Current Focus
+- **LLMOps:** Automating system health via Agentic AI workflows.
+- **High-Scale Infrastructure:** Managing and monitoring **500+ nodes** in production.
 
-I currently work with production environments, monitoring, and automation, and I’m actively growing into a DevOps focused role.
+### 📂 Featured Labs & Projects
+- **[PetFeed](https://github.com/reem-mor/PetFeed):** A Node.js/PostgreSQL care management engine.
+- **[System-Health-Checker](https://github.com/reem-mor/system-health-checker):** A Python-based automation tool for proactive triage.
+- **[HaMadrich](https://github.com/reem-mor/HaMadrich):** Full-stack training platform using Next.js & JWT.
 
-My main tools these days are Linux, Docker, Git, GitHub Actions, and AWS.  
-I mostly code in Python, Bash, and JavaScript, and spend a lot of time with logs, metrics, and alerts.
-
-I’ve pinned a few projects below that reflect how I think and what I build, with more DevOps focused labs coming soon.
-
-If you want to reach out or learn more about me:
-- Email: reem.mor3@gmail.com  
-- LinkedIn: https://linkedin.com/in/reemmor
-
-#### Fun Facts:
-* I have a dog and a cat and a hamster that has lived for too many years
-* I enjoy turning messy systems into clean, automated ones
-* **Hobbies:** gym, learning new tech, building things
+---
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/reemmor) | reem.mor3@gmail.com
