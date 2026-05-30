@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./mario.gif" width="380" alt="Mario coding animation" alt="Re'em Mor - Software Engineer, DevOps, SRE and AI Engineering" />
+  <img src="./mario.gif" width="670" alt="Mario coding animation" alt="Re'em Mor - Software Engineer, DevOps, SRE and AI Engineering" />
 </p>
 
 <h1 align="center">Hi, I'm Re'em Mor 👋</h1>
