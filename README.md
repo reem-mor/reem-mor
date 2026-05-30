@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="./mario.gif" width="280" alt="Mario coding animation" />
+</p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/12ccc0b8-da53-4af2-8a7e-e334febbe481" alt="Re'em Mor - Software Engineer, DevOps, SRE and AI Engineering" />
 </p>
 
@@ -26,9 +29,6 @@
   <img src="https://img.shields.io/badge/Open%20to-DevOps%20%7C%20SRE%20%7C%20AI%20Engineering-success?style=for-the-badge" alt="Open to DevOps, SRE and AI Engineering" />
 </p>
 
-<p align="center">
-  <img src="./mario.gif" width="280" alt="Mario coding animation" />
-</p>
 
 ---
 
