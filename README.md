@@ -1,97 +1,41 @@
-<p align="center">
-  <img src="./mario.gif" width="670" alt="Mario coding animation" alt="Re'em Mor - Software Engineer, DevOps, SRE and AI Engineering" />
-</p>
-
 <h1 align="center">Hi, I'm Re'em Mor 👋</h1>
 
-<h3 align="center">
-  Production Operations Analyst @ 888 Holdings · Software Engineer · Junior DevOps / SRE · AI Engineer at Amdocs
-</h3>
+<h3 align="center">Production Operations Analyst @ 888 Holdings (Evoke) · SRE / DevOps · AI Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reem-mor/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:reem.mor3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/reem-mor">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/reemmor/">LinkedIn</a> ·
+  <a href="mailto:reem.mor3@gmail.com">Email</a> ·
+  <a href="https://github.com/reem-mor">GitHub</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reem-mor&style=for-the-badge&color=0A66C2" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/reem-mor?style=for-the-badge&color=blue" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Open%20to-DevOps%20%7C%20SRE%20%7C%20AI%20Engineering-success?style=for-the-badge" alt="Open to DevOps, SRE and AI Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Production+reliability+meets+AI;Building+agentic+AiOps+with+AWS+Bedrock;Keeping+500%2B+nodes+resilient;Reliability+is+a+feature.+AI+is+the+multiplier." alt="Typing banner" />
 </p>
-
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Production Operations Analyst at 888 Holdings**, a **Software Engineer**, and a **B.Sc. Computer Science graduate** focused on building reliable, automated, and production-ready systems.
+I'm a **Production Operations Analyst at 888 Holdings (Evoke)** and a **B.Sc. Computer Science** student at The Open University (GPA 91), working where production reliability meets AI.
 
-My work and learning path combine **production operations**, **software engineering**, **DevOps**, **SRE**, and **AI Engineering**. I enjoy solving real operational problems, improving incident workflows, automating manual processes, and building practical AI-powered engineering tools.
+By day I keep regulated, multi-jurisdiction gaming infrastructure healthy — incidents, observability, and reliability workflows across 500+ nodes with Kubernetes and Terraform, cutting MTTR by 40% through smarter dashboards and automated triage.
 
-Currently, I am expanding my AI Engineering skills through the **Amdocs AI Engineering course**, where I build hands-on projects with **Python, RAG, Docker, AWS, full-stack development, and LLM-based systems**.
+Lately I've been building the next layer: **agentic AiOps** — AWS Bedrock agents, RAG over operational runbooks, and n8n automation that takes manual toil out of incident response.
 
-- 🔭 Working close to production systems, monitoring, incidents, and reliability workflows
-- ⚙️ Building strong foundations in DevOps, SRE, CI/CD, Docker, AWS, and Kubernetes
-- 🤖 Developing AI Engineering projects with RAG, LLMs, embeddings, and automation
-- 🧠 Focused on practical engineering, clean architecture, and production readiness
-- 📫 Reach me at **reem.mor3@gmail.com**
+- 🔭 Production systems, monitoring, incidents, and reliability workflows
+- ⚙️ DevOps & SRE: CI/CD, Docker, AWS, Kubernetes, Terraform
+- 🤖 Agentic AI: Bedrock agents, RAG, MCP, LangChain, n8n orchestration
+- 🧠 Clean architecture, test discipline, production readiness
+- 📫 reem.mor3@gmail.com
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Infrastructure, Cloud & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" />
-</p>
-
-### Backend, Programming & Full Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-### Observability & Operations
-
-<p>
-  <img src="https://img.shields.io/badge/Monitoring-111827?style=flat" alt="Monitoring" />
-  <img src="https://img.shields.io/badge/Incident%20Management-2563EB?style=flat" alt="Incident Management" />
-  <img src="https://img.shields.io/badge/Production%20Support-16A34A?style=flat" alt="Production Support" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack&logoColor=white" alt="ELK" />
-</p>
-
-### AI Engineering & LLMOps
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/RAG-FF6F61?style=flat" alt="RAG" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat" alt="FAISS" />
-  <img src="https://img.shields.io/badge/Embeddings-7C3AED?style=flat" alt="Embeddings" />
-  <img src="https://img.shields.io/badge/LLMOps-111827?style=flat" alt="LLMOps" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
-</p>
+**Infrastructure & DevOps:** AWS · Kubernetes · Terraform · Docker · Linux · Nginx
+**Backend & Full Stack:** Python · FastAPI · Flask · React · TypeScript · SQL · Bash
+**Observability & Ops:** Monitoring · Incident Management · Grafana · Prometheus · ELK
+**AI Engineering & AiOps:** AWS Bedrock · RAG · Agentic AI · LangChain / LangGraph · MCP · n8n · FAISS · Embeddings · OpenAI
 
 ---
 
@@ -99,83 +43,38 @@ Currently, I am expanding my AI Engineering skills through the **Amdocs AI Engin
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| 🧠 **[IncidentIQ](https://github.com/reem-mor/amdocs-ai-course/tree/main/projects/incident-assistant-rag)** | Full-stack RAG assistant for NOC, DevOps and incident operations. Includes grounded answers, source transparency, Docker, backend, frontend and a production-minded architecture. | FastAPI · React · FAISS · OpenAI · Docker |
-| 📚 **[Amdocs AI Course Portfolio](https://github.com/reem-mor/amdocs-ai-course)** | Engineering portfolio covering Python, Flask, SQLite, RAG, Docker, AWS and full-stack AI applications. | Python · FastAPI · React · Docker · AWS |
-| ⚙️ **[System Health Checker](https://github.com/reem-mor/system-health-checker)** | Bash automation project for proactive system checks, including CPU, memory, disk, services, logs and alerts. | Bash · Linux |
-| 🗺️ **[DevOps Journey](https://github.com/reem-mor/devops-journey)** | Hands-on DevOps learning roadmap with practical projects across Linux, Docker, CI/CD, Kubernetes and Infrastructure as Code. | Docker · Kubernetes · Terraform |
-| 🎯 **[HaMadrich](https://github.com/LielMaoz/HaMadrich)** | Modern training platform with video tutorials and practice tools. | Next.js · TypeScript |
+| 🧠 **[PITER AiOps](https://github.com/reem-mor/amdocs-ai-course)** | Agentic incident-response platform automating the Priority → Investigation → Triage → Escalation → Resolution lifecycle for NOC/SRE teams. AWS Bedrock Agent + RAG knowledge base, 4 Lambda action groups, Flask/React, Dockerized on EC2. **279 passing pytest tests.** | AWS Bedrock · RAG · Lambda · Flask · React · Docker · EC2 |
+| ⚡ **[n8n Automation Suite](https://github.com/reem-mor/amdocs-ai-course)** | Production-style automation workflows: Slack ↔ incident-escalation bridge, LLM-powered intent agents, and an email-automation rebuild — built on n8n with MCP integration. | n8n · MCP · Slack · LLMs · Gemini |
+| 📚 **[Amdocs AI Course Portfolio](https://github.com/reem-mor/amdocs-ai-course)** | Engineering portfolio from Python fundamentals → full-stack RAG → agentic Bedrock systems. Origin of PITER (started as the IncidentIQ RAG assistant). | Python · FastAPI · React · Docker · AWS |
+| ⚙️ **[System Health Checker](https://github.com/reem-mor/system-health-checker)** | Bash automation for proactive system checks: CPU, memory, disk, services, logs, alerts. | Bash · Linux |
+| 🗺️ **[DevOps Journey](https://github.com/reem-mor/devops-journey)** | Hands-on DevOps roadmap across Linux, Docker, CI/CD, Kubernetes, and IaC. | Docker · Kubernetes · Terraform |
 
 ---
 
-## 🆕 Latest Work - Amdocs AI Engineering Course
+## 🆕 Latest Work — PITER AiOps
 
-> Practical AI Engineering from Python fundamentals to full-stack RAG applications with Docker, AWS and production-ready thinking.
+> **PITER** (Priority · Investigation · Triage · Escalation · Resolution) — an AWS Bedrock–powered agentic platform that automates the incident lifecycle for NOC, DevOps, and SRE teams.
 
-### 🎯 IncidentIQ - AI Incident Assistant
+It evolved from **IncidentIQ**, an early RAG assistant, into a full agentic system: a Bedrock Agent reasons over a RAG knowledge base of runbooks, service docs, and historical incidents, then calls Lambda action groups to correlate signals — e.g. linking a recent deploy → a replication-lag alert → a similar past incident — to accelerate triage.
 
-IncidentIQ is a full-stack RAG application designed to support NOC, DevOps and operations teams during incident investigation.
+**What it demonstrates**
+- 🤖 Bedrock Agent orchestration with a RAG knowledge base (S3 Vectors)
+- 🔧 Four Lambda action groups: deployments, service context, similar incidents, escalation
+- 🧪 279 passing pytest tests; reproducible synthetic data (fixed seed)
+- 🐳 Dockerized, deployed on EC2; Flask backend + React frontend
+- 🔌 n8n + MCP integration for ingestion and notification layers
 
-It helps users ask operational questions and receive grounded answers from internal knowledge sources, runbooks, troubleshooting notes and incident-related documents.
-
-### What the project demonstrates
-
-- 🔍 Retrieval-Augmented Generation pipeline using embeddings and FAISS
-- 🧠 LLM-powered answers with source-aware responses
-- 🛡️ Guardrails for no-context answers and safer behavior
-- 🧪 Testing and validation mindset with Pytest
-- 🐳 Dockerized application for local deployment
-- 🖥️ Modern frontend experience with React and TypeScript
-- ☁️ Cloud-ready mindset with AWS EC2 and Nginx deployment concepts
-
-### Course milestones covered
-
-Python · OOP · NumPy · NLP · RAG · Flask · SQLite · FastAPI · React · Docker · AWS EC2 · GitHub · Testing
-
-➡️ Explore the repository: **[amdocs-ai-course](https://github.com/reem-mor/amdocs-ai-course)**
+➡️ Explore: **[amdocs-ai-course](https://github.com/reem-mor/amdocs-ai-course)**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=reem-mor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=reem-mor&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reem-mor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reem-mor&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reem-mor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reem-mor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ---
 
-## 📈 Currently Focused On
-
-- 🔬 Building practical AI Engineering projects with RAG and LLM workflows
-- ⚙️ Improving DevOps and SRE skills through hands-on infrastructure projects
-- 🧰 Automating incident response and operational workflows
-- 📖 Deepening knowledge in distributed systems, observability and platform engineering
-- 🚀 Growing toward DevOps, SRE and AI Engineering roles
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/reem-mor/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="mailto:reem.mor3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
-  </a>
-  <a href="https://github.com/reem-mor">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"Reliability is a feature. Automation is a discipline. AI is the multiplier."</i>
-</p>
+<p align="center"><em>"Reliability is a feature. Automation is a discipline. AI is the multiplier."</em></p>
