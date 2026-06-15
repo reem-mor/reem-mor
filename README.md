@@ -78,3 +78,7 @@ It evolved from **IncidentIQ**, an early RAG assistant, into a full agentic syst
 ---
 
 <p align="center"><em>"Reliability is a feature. Automation is a discipline. AI is the multiplier."</em></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reem-mor/reem-mor/main/mario.gif" width="500" alt="Mario coding animation" />
+</p>
