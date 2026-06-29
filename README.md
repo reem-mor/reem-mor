@@ -26,7 +26,7 @@ Increasingly, I build the next layer: **agentic AiOps** — AWS Bedrock agents, 
 - ⚙️ DevOps & SRE — CI/CD, Docker, AWS, Kubernetes, Terraform
 - 🤖 Agentic AI — Bedrock agents, RAG, MCP, LangChain, n8n orchestration
 - 🛡️ Guardrails by default — deterministic safety floors, scope guards, idempotent syncs, dead-letter recovery
-- 🎓 B.Sc. CS @ The Open University (GPA 91) · AI-Augmented Software Engineering @ Amdocs *(through Aug 2026)*
+- 🎓 B.Sc. CS @ The Open University (GPA 91) · AI-Augmented Software Engineering @ Amdocs / Lab17 *(through Aug 2026)*
 - 📫 reem.mor3@gmail.com
 
 ---
@@ -73,11 +73,10 @@ It grew from **IncidentIQ**, an early RAG assistant, into a full agentic system.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-reemmor3-gmailcoms-projects.vercel.app/api?username=reem-mor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-reemmor3-gmailcoms-projects.vercel.app/api/top-langs/?username=reem-mor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reem-mor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 </p>
 
 ---
