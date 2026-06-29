@@ -76,8 +76,8 @@ It grew from **IncidentIQ**, an early RAG assistant, into a full agentic system.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reem-mor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reem-mor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-reemmor3-gmailcoms-projects.vercel.app/api?username=reem-mor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-reemmor3-gmailcoms-projects.vercel.app/api/top-langs/?username=reem-mor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ---
