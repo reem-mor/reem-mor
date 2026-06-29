@@ -26,7 +26,7 @@ Increasingly, I build the next layer: **agentic AiOps** — AWS Bedrock agents, 
 - ⚙️ DevOps & SRE — CI/CD, Docker, AWS, Kubernetes, Terraform
 - 🤖 Agentic AI — Bedrock agents, RAG, MCP, LangChain, n8n orchestration
 - 🛡️ Guardrails by default — deterministic safety floors, scope guards, idempotent syncs, dead-letter recovery
-- 🎓 B.Sc. CS @ The Open University (GPA 91) · AI-Augmented Software Engineering @ Amdocs / Lab17 *(through Aug 2026)*
+- 🎓 B.Sc. CS @ The Open University (GPA 91) · AI-Augmented Software Engineering @ Amdocs *(through Aug 2026)*
 - 📫 reem.mor3@gmail.com
 
 ---
