@@ -33,9 +33,9 @@ Increasingly, I build the next layer: **agentic AiOps** — AWS Bedrock agents, 
 
 ## 🛠️ Tech Stack
 
-**Infrastructure & DevOps** — AWS · Kubernetes · Terraform · Docker · Linux · Nginx
-**Backend & Full Stack** — Python · FastAPI · Flask · React · TypeScript · SQL · Bash
-**Observability & Ops** — Monitoring · Incident Management · Grafana · Prometheus · ELK
+**Infrastructure & DevOps** — AWS · Kubernetes · Terraform · Docker · Linux · Nginx <br>
+**Backend & Full Stack** — Python · FastAPI · Flask · React · TypeScript · SQL · Bash <br>
+**Observability & Ops** — Monitoring · Incident Management · Grafana · Prometheus · ELK <br>
 **AI Engineering & AiOps** — AWS Bedrock · RAG · Agentic AI · LangChain / LangGraph · MCP · n8n · pgvector / FAISS · Embeddings · OpenAI · Gemini
 
 ---
