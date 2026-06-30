@@ -46,12 +46,13 @@ Increasingly, I build the next layer: **agentic AiOps** — AWS Bedrock agents, 
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| 🧠 **[PITER AiOps](https://github.com/reem-mor/amdocs-ai-course)** | Agentic incident-response platform automating the Priority → Investigation → Triage → Escalation → Resolution lifecycle for NOC/SRE teams. Bedrock Agent + RAG knowledge base, 4 Lambda action groups, deterministic guardrails, Flask/React on EC2. **279 passing pytest tests.** | AWS Bedrock · RAG · Lambda · Flask · React · Docker |
-| 🔎 **[HINDSIGHT](https://github.com/reem-mor/hindsight)** | Cybersecurity incident-log intelligence pipeline: ingests logs, enriches and classifies them with an LLM, and surfaces patterns over a pgvector store. Region-aware, full spec shipped. | n8n · FastAPI · Gemini · Supabase / pgvector |
-| ⚡ **[n8n Automation Suite](https://github.com/reem-mor/amdocs-ai-course)** | Production-style workflows: a Slack ↔ incident-escalation bridge, LLM intent agents, and an email-automation rebuild — idempotent, with dead-letter handling. | n8n · MCP · Slack · LLMs |
-| 📚 **[Amdocs AI Portfolio](https://github.com/reem-mor/amdocs-ai-course)** | Engineering portfolio from Python fundamentals → full-stack RAG → agentic Bedrock systems. Where PITER began (as the IncidentIQ RAG assistant). | Python · FastAPI · React · AWS |
+| 🧠 **[PITER AiOps](https://github.com/reem-mor/piter-aiops)** | Agentic incident-response platform for NOC/SRE: Bedrock Agent + RAG over runbooks, 4 Lambda action groups, deterministic guardrails, safe escalation previews. **325+ pytest tests.** | AWS Bedrock · RAG · Lambda · Flask · React · Docker |
+| 🔎 **[HINDSIGHT](https://github.com/reem-mor/hindsight)** | Incident-log / document intelligence pipeline: ingests ops documents, LLM extraction + deterministic enrichment, semantic search over operational history. | n8n · FastAPI · Gemini · Supabase / pgvector |
+| 🎯 **[HaMadrich](https://github.com/LielMaoz/HaMadrich)** | Full-stack training management platform: role-based access, JWT auth, professional content library, admin drill management, Google Drive integration. | Next.js · TypeScript · PostgreSQL · JWT · Tailwind · shadcn/ui |
+| 🤖 **[course-assistant-bot](https://github.com/reem-mor/course-assistant-bot)** | Bilingual (HE/EN) Telegram course-ops bot: schedule, recordings, homework submission, RAG recommendations, admin flows. Deterministic routing; LLM classifies, code enforces rules. **224 tests.** | Python · uv · SQLAlchemy/Alembic · LangGraph · Docker |
+| 📚 **[ai-engineering-portfolio](https://github.com/reem-mor/ai-engineering-portfolio)** | AI-Augmented Software Engineering learning archive — Python → RAG → agents/MCP; capstone projects and homework evidence (where PITER and the bot began). | Python · FastAPI · React · AWS · pytest · CI |
 
-*Also: [System Health Checker](https://github.com/reem-mor/system-health-checker) (Bash ops automation) · [DevOps Journey](https://github.com/reem-mor/devops-journey) (Linux → Docker → K8s → IaC roadmap)*
+*Also: [n8n Automation Suite](https://github.com/reem-mor/ai-engineering-portfolio/tree/main/homework/hw06/n8n-customer-support-agent) (Slack ↔ escalation bridge, guardrails, dead-letter handling) · [System Health Checker](https://github.com/reem-mor/system-health-checker) · [DevOps Journey](https://github.com/reem-mor/devops-journey)*
 
 ---
 
@@ -65,11 +66,11 @@ It grew from **IncidentIQ**, an early RAG assistant, into a full agentic system.
 - 🤖 Bedrock Agent orchestration over a RAG knowledge base (S3 Vectors)
 - 🔧 Four Lambda action groups: deployments, service context, similar incidents, escalation
 - 🛡️ Guardrails first — deterministic safety floors that override LLM-stated values, scope guards on every action, Slack escalation for human-in-the-loop
-- 🧪 279 passing pytest tests; reproducible synthetic data (fixed seed)
+- 🧪 325+ passing pytest tests; reproducible synthetic data (fixed seed)
 - 🐳 Dockerized on EC2; Flask backend + React frontend
 - 🔌 n8n + MCP for ingestion and notification layers
 
-➡️ Explore: **[amdocs-ai-course](https://github.com/reem-mor/amdocs-ai-course)**
+➡️ Explore: **[piter-aiops](https://github.com/reem-mor/piter-aiops)**
 
 ---
 
