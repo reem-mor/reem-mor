@@ -34,7 +34,7 @@ Increasingly, I build the next layer: **agentic AiOps** — AWS Bedrock agents, 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,linux,nginx,python,fastapi,flask,react,ts,bash,postgres,grafana,prometheus" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,linux,nginx,python,fastapi,flask,react,ts,bash,postgres,pytorch,grafana,prometheus" alt="Tech stack" />
 </p>
 
 **Observability & Ops** — Monitoring · Incident Management · Grafana · Prometheus · ELK <br>
@@ -71,6 +71,46 @@ It grew from **IncidentIQ**, an early RAG assistant, into a full agentic system.
 - 🔌 n8n + MCP for ingestion and notification layers
 
 ➡️ Explore: **[piter-aiops](https://github.com/reem-mor/piter-aiops)**
+
+---
+
+## 🎓 AI Engineering Curriculum
+
+Tracked coursework from the **AI-Augmented Software Engineering** program (Amdocs / Lab17), mapped to the tools I build with:
+
+**🐍 Foundations** — Advanced Python (typing, testing, concurrency, OOP) · Web APIs with **Flask** & **FastAPI** · AWS core services (EC2, S3, IAM, RDS, Lambda, CloudWatch, VPC)
+
+**🧠 AI & LLM Engineering** — AWS AI services (**Bedrock**, Textract, Comprehend, Rekognition, Transcribe, Polly) · **RAG** (embeddings, vector databases, semantic search) · **MCP** (Model Context Protocol)
+
+**🕸️ Agents & Orchestration** — **LangChain** (chains, tools, memory, agents) · **LangGraph** (stateful, multi-agent graphs) · **n8n** automation (triggers, webhooks, AI nodes, integrations)
+
+**📊 ML & Models** — ML classifiers (features, training, evaluation metrics) · **PyTorch** & Transformers (tokenization, inference) · Local models with **Ollama** & **Hugging Face**
+
+**🧰 Tooling & Interfaces** — **Open WebUI** for local/remote model serving · AI-assisted development with **Cursor** & **OpenClaw**
+
+<details>
+<summary>📖 Full topic breakdown</summary>
+
+<br>
+
+| Topic | Focus |
+| --- | --- |
+| **Python: Basic & Advanced** | Syntax, data structures, functions, OOP, file handling, modules, error handling, typing, testing, concurrency, scripting |
+| **Web Development with Python** | Flask & FastAPI — routes, REST APIs, forms, databases, auth basics, deployment concepts |
+| **AWS Core Services** | EC2, S3, IAM, RDS, Lambda, CloudWatch, VPC basics; deploying and managing cloud apps |
+| **AWS AI Services** | Bedrock, Transcribe, Polly, Textract, Rekognition, Comprehend — integrated into real applications |
+| **RAG & Practical Implementation** | Embeddings, vector databases, document indexing, semantic search, grounding LLM responses |
+| **MCP & Practical Implementation** | Connecting AI agents to external tools, files, APIs, and services in a structured way |
+| **n8n Workflows** | Triggers, webhooks, API calls, AI agent nodes, Gmail/Sheets integrations, multi-step automations |
+| **LangChain** | Chains, prompts, tools, memory, retrievers, agents — building LLM-powered applications |
+| **LangGraph** | Graph-based AI workflows — nodes, edges, state management, routing, multi-agent logic |
+| **ML Classifier Models** | Datasets, features, labels, training/testing, evaluation metrics, common classifiers |
+| **PyTorch & Transformers** | Building neural networks in PyTorch; transformer models — tokenization, inference, usage |
+| **Local Models — Ollama & Hugging Face** | Downloading, serving, testing, and comparing local model performance |
+| **Open WebUI** | Web interface connecting users to local/remote models, tools, functions, and workflows |
+| **AI Assistance — Cursor & OpenClaw** | AI coding and productivity tools for development, automation, and task execution |
+
+</details>
 
 ---
 
