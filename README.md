@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Re'em Mor 👋</h1>
 
-<h3 align="center">AI Engineer × SRE — Production Operations @ 888 Holdings (Evoke)</h3>
+<h3 align="center">AI Engineer × SRE - Production Operations @ 888 Holdings (Evoke)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reemmor/">LinkedIn</a> ·
@@ -16,16 +16,16 @@
 
 ## 🚀 About Me
 
-I'm a **Production Operations Analyst at 888 Holdings (Evoke)** and a **B.Sc. Computer Science** student at The Open University of Israel (GPA 91) — working right where production reliability meets AI.
+I'm a **Production Operations Analyst at 888 Holdings (Evoke)** and a **B.Sc. Computer Science** student at The Open University of Israel (GPA 91). working right where production reliability meets AI.
 
-By day, I keep regulated, multi-jurisdiction gaming infrastructure healthy: incidents, observability, and reliability workflows across **500+ nodes** with Kubernetes and Terraform — and I've **cut MTTR by ~40%** through smarter dashboards and automated triage.
+By day, I keep regulated, multi-jurisdiction gaming infrastructure healthy: incidents, observability, and reliability workflows across **500+ nodes** with Kubernetes and Terraform, and I've **cut MTTR by ~40%** through smarter dashboards and automated triage.
 
-Increasingly, I build the next layer: **agentic AiOps** — AWS Bedrock agents, RAG over operational runbooks, and n8n automation that takes the manual toil out of incident response.
+Increasingly, I build the next layer: **agentic AiOps** , AWS Bedrock agents, RAG over operational runbooks, and n8n automation that takes the manual toil out of incident response.
 
 - 🔭 Production systems, monitoring, incidents, reliability workflows
-- ⚙️ DevOps & SRE — CI/CD, Docker, AWS, Kubernetes, Terraform
-- 🤖 Agentic AI — Bedrock agents, RAG, MCP, LangChain, n8n orchestration
-- 🛡️ Guardrails by default — deterministic safety floors, scope guards, idempotent syncs, dead-letter recovery
+- ⚙️ DevOps & SRE - CI/CD, Docker, AWS, Kubernetes, Terraform
+- 🤖 Agentic AI - Bedrock agents, RAG, MCP, LangChain, n8n orchestration
+- 🛡️ Guardrails by default - deterministic safety floors, scope guards, idempotent syncs, dead-letter recovery
 - 🎓 B.Sc. CS @ The Open University (GPA 91) · AI-Augmented Software Engineering @ Amdocs / Lab17 *(through Aug 2026)*
 - 📫 reem.mor3@gmail.com
 
@@ -37,8 +37,8 @@ Increasingly, I build the next layer: **agentic AiOps** — AWS Bedrock agents, 
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,linux,nginx,python,fastapi,flask,react,ts,bash,postgres,pytorch,grafana,prometheus" alt="Tech stack" />
 </p>
 
-**Observability & Ops** — Monitoring · Incident Management · Grafana · Prometheus · ELK <br>
-**AI Engineering & AiOps** — AWS Bedrock · RAG · Agentic AI · LangChain / LangGraph · MCP · n8n · pgvector / FAISS · Embeddings · OpenAI · Gemini
+**Observability & Ops** - Monitoring · Incident Management · Grafana · Prometheus · ELK <br>
+**AI Engineering & AiOps** - AWS Bedrock · RAG · Agentic AI · LangChain / LangGraph · MCP · n8n · pgvector / FAISS · Embeddings · OpenAI · Gemini
 
 ---
 
@@ -60,12 +60,12 @@ Increasingly, I build the next layer: **agentic AiOps** — AWS Bedrock agents, 
 
 > **PITER** (Priority · Investigation · Triage · Escalation · Resolution) — an AWS Bedrock–powered agentic platform that automates the incident lifecycle for NOC, DevOps, and SRE teams.
 
-It grew from **IncidentIQ**, an early RAG assistant, into a full agentic system. A Bedrock Agent reasons over a RAG knowledge base of runbooks, service docs, and historical incidents, then calls Lambda action groups to correlate signals — linking a recent deploy → a replication-lag alert → a similar past incident — to accelerate triage.
+It grew from **IncidentIQ**, an early RAG assistant, into a full agentic system. A Bedrock Agent reasons over a RAG knowledge base of runbooks, service docs, and historical incidents, then calls Lambda action groups to correlate signals — linking a recent deploy → a replication-lag alert → a similar past incident  to accelerate triage.
 
 **What it demonstrates**
 - 🤖 Bedrock Agent orchestration over a RAG knowledge base (S3 Vectors)
 - 🔧 Four Lambda action groups: deployments, service context, similar incidents, escalation
-- 🛡️ Guardrails first — deterministic safety floors that override LLM-stated values, scope guards on every action, Slack escalation for human-in-the-loop
+- 🛡️ Guardrails first - deterministic safety floors that override LLM-stated values, scope guards on every action, Slack escalation for human-in-the-loop
 - 🧪 325+ passing pytest tests; reproducible synthetic data (fixed seed)
 - 🐳 Dockerized on EC2; Flask backend + React frontend
 - 🔌 n8n + MCP for ingestion and notification layers
@@ -78,15 +78,15 @@ It grew from **IncidentIQ**, an early RAG assistant, into a full agentic system.
 
 Tracked coursework from the **AI-Augmented Software Engineering** program (Amdocs / Lab17), mapped to the tools I build with:
 
-**🐍 Foundations** — Advanced Python (typing, testing, concurrency, OOP) · Web APIs with **Flask** & **FastAPI** · AWS core services (EC2, S3, IAM, RDS, Lambda, CloudWatch, VPC)
+**🐍 Foundations** - Advanced Python (typing, testing, concurrency, OOP) · Web APIs with **Flask** & **FastAPI** · AWS core services (EC2, S3, IAM, RDS, Lambda, CloudWatch, VPC)
 
-**🧠 AI & LLM Engineering** — AWS AI services (**Bedrock**, Textract, Comprehend, Rekognition, Transcribe, Polly) · **RAG** (embeddings, vector databases, semantic search) · **MCP** (Model Context Protocol)
+**🧠 AI & LLM Engineering** - AWS AI services (**Bedrock**, Textract, Comprehend, Rekognition, Transcribe, Polly) · **RAG** (embeddings, vector databases, semantic search) · **MCP** (Model Context Protocol)
 
-**🕸️ Agents & Orchestration** — **LangChain** (chains, tools, memory, agents) · **LangGraph** (stateful, multi-agent graphs) · **n8n** automation (triggers, webhooks, AI nodes, integrations)
+**🕸️ Agents & Orchestration** - **LangChain** (chains, tools, memory, agents) · **LangGraph** (stateful, multi-agent graphs) · **n8n** automation (triggers, webhooks, AI nodes, integrations)
 
-**📊 ML & Models** — ML classifiers (features, training, evaluation metrics) · **PyTorch** & Transformers (tokenization, inference) · Local models with **Ollama** & **Hugging Face**
+**📊 ML & Models** - ML classifiers (features, training, evaluation metrics) · **PyTorch** & Transformers (tokenization, inference) · Local models with **Ollama** & **Hugging Face**
 
-**🧰 Tooling & Interfaces** — **Open WebUI** for local/remote model serving · AI-assisted development with **Cursor** & **OpenClaw**
+**🧰 Tooling & Interfaces** - **Open WebUI** for local/remote model serving · AI-assisted development with **Cursor** & **OpenClaw**
 
 <details>
 <summary>📖 Full topic breakdown</summary>
@@ -114,10 +114,14 @@ Tracked coursework from the **AI-Augmented Software Engineering** program (Amdoc
 
 ---
 
-## 📊 Most Used Languages
+## 💻 Languages I Work In
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reem-mor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 ---
