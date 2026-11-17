@@ -1,133 +1,143 @@
-<h1 align="center">Hi, I'm Re'em Mor 👋</h1>
+<div align="center">
 
-<h3 align="center">AI Engineer × SRE - Production Operations @ 888 Holdings (Evoke)</h3>
+# Hi, I'm Re'em Mor 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/reemmor/">LinkedIn</a> ·
-  <a href="mailto:reem.mor3@gmail.com">Email</a> ·
-  <a href="https://github.com/reem-mor">GitHub</a>
-</p>
+### Generative AI Engineer @ Amdocs | Software Engineer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=Production+reliability+meets+AI;Agentic+AiOps+on+AWS+Bedrock;Guardrails%2C+observability%2C+lower+MTTR;Reliability+is+a+feature.+AI+is+the+multiplier." alt="Typing banner" />
-</p>
+<a href="https://github.com/reem-mor/peter-pan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3500&pause=1000&color=20C997&center=true&vCenter=true&repeat=true&width=660&height=64&lines=Engineering+AI+that+holds+up+in+production;Building+multi-agent+systems+for+enterprise+workflows;Evidence+first.+Guardrails+always.+Humans+in+control." alt="Animated headline: Engineering AI that holds up in production" width="100%" />
+</a>
 
----
+<br />
 
-## 🚀 About Me
+<a href="https://www.linkedin.com/in/reemmor/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:reem.mor3@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/reem-mor/peter-pan">
+  <img alt="Flagship project: PETER PAN" src="https://img.shields.io/badge/Flagship-PETER_PAN-6E40C9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-I'm a **Production Operations Analyst at 888 Holdings (Evoke)** and a **B.Sc. Computer Science** student at The Open University of Israel (GPA 91). working right where production reliability meets AI.
-
-By day, I keep regulated, multi-jurisdiction gaming infrastructure healthy: incidents, observability, and reliability workflows across **500+ nodes** with Kubernetes and Terraform, and I've **cut MTTR by ~40%** through smarter dashboards and automated triage.
-
-Increasingly, I build the next layer: **agentic AiOps** , AWS Bedrock agents, RAG over operational runbooks, and n8n automation that takes the manual toil out of incident response.
-
-- 🔭 Production systems, monitoring, incidents, reliability workflows
-- ⚙️ DevOps & SRE - CI/CD, Docker, AWS, Kubernetes, Terraform
-- 🤖 Agentic AI - Bedrock agents, RAG, MCP, LangChain, n8n orchestration
-- 🛡️ Guardrails by default - deterministic safety floors, scope guards, idempotent syncs, dead-letter recovery
-- 🎓 B.Sc. CS @ The Open University (GPA 91) · AI-Augmented Software Engineering @ Amdocs / Lab17 *(through Aug 2026)*
-- 📫 reem.mor3@gmail.com
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 From production incidents to enterprise AI
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,linux,nginx,python,fastapi,flask,react,ts,bash,postgres,pytorch,grafana,prometheus" alt="Tech stack" />
-</p>
+I'm a **Generative AI Engineer at Amdocs (amaiz / Cognitive Core)**, working on a **multi-agent AI platform for enterprise telecom billing and customer care**. My work connects **LLM orchestration and MCP integrations** with backend APIs, Python validation, business rules, and automated test scenarios across critical customer and billing entities.
 
-**Observability & Ops** - Monitoring · Incident Management · Grafana · Prometheus · ELK <br>
-**AI Engineering & AiOps** - AWS Bedrock · RAG · Agentic AI · LangChain / LangGraph · MCP · n8n · pgvector / FAISS · Embeddings · OpenAI · Gemini
+Before AI engineering, I worked in **SRE, DevOps, and production operations at Evoke (888 Holdings)**. Being close to real incidents shaped how I build software: reliability cannot be added after the demo.
 
----
+> **My engineering bias:** A model can propose. The system must verify. The operator stays in control.
 
-## 📂 Featured Projects
+**B.Sc. Computer Science**, The Open University of Israel (GPA 91).
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| 🧠 **[PITER AiOps](https://github.com/reem-mor/piter-aiops)** | Agentic incident-response platform for NOC/SRE: Bedrock Agent + RAG over runbooks, 4 Lambda action groups, deterministic guardrails, safe escalation previews. **325+ pytest tests.** | AWS Bedrock · RAG · Lambda · Flask · React · Docker |
-| 🔎 **[HINDSIGHT](https://github.com/reem-mor/hindsight)** | Incident-log / document intelligence pipeline: ingests ops documents, LLM extraction + deterministic enrichment, semantic search over operational history. | n8n · FastAPI · Gemini · Supabase / pgvector |
-| 🎯 **[HaMadrich](https://github.com/LielMaoz/HaMadrich)** | Full-stack training management platform: role-based access, JWT auth, professional content library, admin drill management, Google Drive integration. | Next.js · TypeScript · PostgreSQL · JWT · Tailwind · shadcn/ui |
-| 🤖 **[course-assistant-bot](https://github.com/reem-mor/course-assistant-bot)** | Bilingual (HE/EN) Telegram course-ops bot: schedule, recordings, homework submission, RAG recommendations, admin flows. Deterministic routing; LLM classifies, code enforces rules. **224 tests.** | Python · uv · SQLAlchemy/Alembic · LangGraph · Docker |
-| 📚 **[ai-engineering-portfolio](https://github.com/reem-mor/ai-engineering-portfolio)** | AI-Augmented Software Engineering learning archive — Python → RAG → agents/MCP; capstone projects and homework evidence (where PITER and the bot began). | Python · FastAPI · React · AWS · pytest · CI |
+## 🚀 Featured: [PETER PAN](https://github.com/reem-mor/peter-pan)
 
-*Also: [n8n Automation Suite](https://github.com/reem-mor/ai-engineering-portfolio/tree/main/homework/hw06/n8n-customer-support-agent) (Slack ↔ escalation bridge, guardrails, dead-letter handling) · [System Health Checker](https://github.com/reem-mor/system-health-checker) · [DevOps Journey](https://github.com/reem-mor/devops-journey)*
+**Predictive · Agentic · Navigator**  
+*An incident-intelligence platform for SRE, DevOps, and production operations.*
 
----
+Monitoring data is fragmented across alerts, logs, deployments, service context, and runbooks. **PETER PAN** is designed to bring that evidence together into a structured, explainable incident story with suggested investigative steps and explicit human review.
 
-## 🆕 Latest Work — PITER AiOps
+<div align="center">
 
-> **PITER** (Priority · Investigation · Triage · Escalation · Resolution) — an AWS Bedrock–powered agentic platform that automates the incident lifecycle for NOC, DevOps, and SRE teams.
+<a href="https://github.com/reem-mor/peter-pan">
+  <img alt="View PETER PAN source" src="https://img.shields.io/badge/VIEW_SOURCE-PETER_PAN-159A86?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/reem-mor/peter-pan/blob/main/docs/ARCHITECTURE.md">
+  <img alt="Explore PETER PAN architecture" src="https://img.shields.io/badge/EXPLORE-ARCHITECTURE-2563EB?style=for-the-badge" />
+</a>
+<a href="https://github.com/reem-mor/peter-pan/blob/main/docs/TESTING.md">
+  <img alt="Explore testing and evaluations" src="https://img.shields.io/badge/READ-TESTING_%26_EVALS-6441A5?style=for-the-badge" />
+</a>
 
-It grew from **IncidentIQ**, an early RAG assistant, into a full agentic system. A Bedrock Agent reasons over a RAG knowledge base of runbooks, service docs, and historical incidents, then calls Lambda action groups to correlate signals — linking a recent deploy → a replication-lag alert → a similar past incident  to accelerate triage.
+</div>
 
-**What it demonstrates**
-- 🤖 Bedrock Agent orchestration over a RAG knowledge base (S3 Vectors)
-- 🔧 Four Lambda action groups: deployments, service context, similar incidents, escalation
-- 🛡️ Guardrails first - deterministic safety floors that override LLM-stated values, scope guards on every action, Slack escalation for human-in-the-loop
-- 🧪 325+ passing pytest tests; reproducible synthetic data (fixed seed)
-- 🐳 Dockerized on EC2; Flask backend + React frontend
-- 🔌 n8n + MCP for ingestion and notification layers
+**What I focused on building**
 
-➡️ Explore: **[piter-aiops](https://github.com/reem-mor/piter-aiops)**
-
----
-
-## 🎓 AI Engineering Curriculum
-
-Tracked coursework from the **AI-Augmented Software Engineering** program (Amdocs / Lab17), mapped to the tools I build with:
-
-**🐍 Foundations** - Advanced Python (typing, testing, concurrency, OOP) · Web APIs with **Flask** & **FastAPI** · AWS core services (EC2, S3, IAM, RDS, Lambda, CloudWatch, VPC)
-
-**🧠 AI & LLM Engineering** - AWS AI services (**Bedrock**, Textract, Comprehend, Rekognition, Transcribe, Polly) · **RAG** (embeddings, vector databases, semantic search) · **MCP** (Model Context Protocol)
-
-**🕸️ Agents & Orchestration** - **LangChain** (chains, tools, memory, agents) · **LangGraph** (stateful, multi-agent graphs) · **n8n** automation (triggers, webhooks, AI nodes, integrations)
-
-**📊 ML & Models** - ML classifiers (features, training, evaluation metrics) · **PyTorch** & Transformers (tokenization, inference) · Local models with **Ollama** & **Hugging Face**
-
-**🧰 Tooling & Interfaces** - **Open WebUI** for local/remote model serving · AI-assisted development with **Cursor** & **OpenClaw**
+- **Agent systems:** Python, FastAPI, n8n orchestration, bounded LangGraph execution, and retrieval over operational knowledge.
+- **Evidence over hallucination:** source-backed analysis, deterministic input/output guardrails, evaluation, and safe fallback behavior.
+- **Production-minded controls:** read-only defaults, human approval for potentially mutating actions, observability, and usage visibility.
 
 <details>
-<summary>📖 Full topic breakdown</summary>
+<summary><b>🧭 See the incident flow and architecture decisions</b></summary>
 
-<br>
+```mermaid
+flowchart TD
+    A[Incident alert] --> B[Collect operational evidence]
+    B --> C[Retrieve knowledge and correlate context]
+    C --> D[Agent reasoning and structured analysis]
+    D --> E{Valid evidence and guardrails?}
+    E -->|Yes| F[Cited incident assessment]
+    E -->|No| G[Safe fallback or request more evidence]
+    F --> H[Human-reviewed action preview]
+```
 
-| Topic | Focus |
-| --- | --- |
-| **Python: Basic & Advanced** | Syntax, data structures, functions, OOP, file handling, modules, error handling, typing, testing, concurrency, scripting |
-| **Web Development with Python** | Flask & FastAPI — routes, REST APIs, forms, databases, auth basics, deployment concepts |
-| **AWS Core Services** | EC2, S3, IAM, RDS, Lambda, CloudWatch, VPC basics; deploying and managing cloud apps |
-| **AWS AI Services** | Bedrock, Transcribe, Polly, Textract, Rekognition, Comprehend — integrated into real applications |
-| **RAG & Practical Implementation** | Embeddings, vector databases, document indexing, semantic search, grounding LLM responses |
-| **MCP & Practical Implementation** | Connecting AI agents to external tools, files, APIs, and services in a structured way |
-| **n8n Workflows** | Triggers, webhooks, API calls, AI agent nodes, Gmail/Sheets integrations, multi-step automations |
-| **LangChain** | Chains, prompts, tools, memory, retrievers, agents — building LLM-powered applications |
-| **LangGraph** | Graph-based AI workflows — nodes, edges, state management, routing, multi-agent logic |
-| **ML Classifier Models** | Datasets, features, labels, training/testing, evaluation metrics, common classifiers |
-| **PyTorch & Transformers** | Building neural networks in PyTorch; transformer models — tokenization, inference, usage |
-| **Local Models — Ollama & Hugging Face** | Downloading, serving, testing, and comparing local model performance |
-| **Open WebUI** | Web interface connecting users to local/remote models, tools, functions, and workflows |
-| **AI Assistance — Cursor & OpenClaw** | AI coding and productivity tools for development, automation, and task execution |
+**Design decisions:** deterministic safety policies override LLM-generated claims; incident conclusions require traceable evidence; risky actions are never automatically executed by the model. The repository explicitly separates existing functionality from roadmap targets.
+
+</details>
+
+### The work behind PETER PAN
+
+[PITER AiOps](https://github.com/reem-mor/piter-aiops) was its earlier incident-triage foundation, integrating an AWS Bedrock Agent, runbook RAG, four Lambda action groups, and escalation previews. PETER PAN expands the product direction into a broader incident-intelligence architecture.
+
+## 🧩 Other selected engineering projects
+
+**🔎 [HINDSIGHT - Document Intelligence](https://github.com/reem-mor/hindsight)**  
+Processes cybersecurity documents with **Gemini, n8n, and FastAPI**. Deterministic backend rules handle severity, data sensitivity, and routing rather than trusting free-form model output.
+
+**🤖 [Course Assistant Bot - Agentic Workflow Automation](https://github.com/reem-mor/course-assistant-bot)**  
+Bilingual Telegram assistant with **async Python, LangGraph routing, SQLAlchemy/Alembic, Docker, and automated tests**, integrating scheduling, learning content, and administrative workflows.
+
+<details>
+<summary><b>📚 More code: early RAG projects, AI experiments and DevOps practice</b></summary>
+
+- [AI Engineering Portfolio](https://github.com/reem-mor/ai-engineering-portfolio) - experiments and coursework that grew into standalone projects.
+- [PITER AiOps](https://github.com/reem-mor/piter-aiops) - the earlier incident-triage product.
+
+</details>
+
+## 🛠️ Tools I use to build and operate systems
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,ts,fastapi,nodejs,react,nextjs,postgres&perline=8" alt="Software and backend: Python, Java, TypeScript, FastAPI, Node.js, React, Next.js, PostgreSQL" width="470" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,grafana&perline=8" alt="Cloud and operations: AWS, Docker, Kubernetes, Terraform, Linux, Git, GitHub, Grafana" width="470" />
+
+</div>
+
+**AI engineering:** Agentic AI · MCP · RAG · LangGraph · LangChain · AWS Bedrock · n8n · LLM evaluations · guardrails  
+**Software engineering:** Python · Java · TypeScript · FastAPI · REST APIs · SQL · pytest · backend integrations  
+**Cloud & reliability:** AWS · Docker · Kubernetes · Terraform · CI/CD · Grafana · incident response
+
+<details>
+<summary><b>🎓 Education and additional training</b></summary>
+
+- **B.Sc. Computer Science**, The Open University of Israel (GPA 91).
+- **AI-Augmented Software Engineering**, Amdocs / Lab17 (2026) - 180-hour project-based program.
+- **AI Agents & LLM Integration**, Lab17 (2025).
 
 </details>
 
 ---
 
-## 💻 Languages I Work In
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+### ☕ Still building
 
----
+<img src="./agentic-ai-workspace.gif" alt="Original looping pixel-art animation of a developer working on AI agent systems in a neon-lit room" width="560" />
 
-<p align="center"><em>"Reliability is a feature. Automation is a discipline. AI is the multiplier."</em></p>
+<br />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/reem-mor/reem-mor/main/mario.gif" width="500" alt="Mario coding animation" />
-</p>
+*Evidence first. Safe by design. Built for real-world systems.*
+
+<a href="https://www.linkedin.com/in/reemmor/">
+  <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
