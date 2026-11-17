@@ -130,7 +130,7 @@ Bilingual Telegram assistant with **async Python, LangGraph routing, SQLAlchemy/
 
 ### ☕ Still building
 
-<img src="./agentic-ai-workspace.gif" alt="Original looping pixel-art animation of a developer working on AI agent systems in a neon-lit room" width="560" />
+<img src="./reem_mor_agentic_ai_workspace.gif" alt="Re'em Mor - Agentic AI Engineering Workspace" width="560" />
 
 <br />
 
